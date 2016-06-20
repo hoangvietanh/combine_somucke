@@ -12,7 +12,7 @@ i = 1
 data = list()
 for (i in ni) 
 {
-  data[[i]]           = read.delim(ten_files[i], header = FALSE, sep = "|") ## doc file txt vao
+  data[[i]]           = read.delim(ten_files[i], header = FALSE, sep = "|") ## doc file txt vao, su dung "|" lam separator
   data[[i]]= data[[i]][,c(2:11)] ###cat lay tu cot 2 den cot 11
   data[[i]]$ten_file  = ten_files_temp[i] ### them cot ten file vao
   names(data[[i]]) = c("thua","dtich","x","y","ldlr","churung","dchi","shTam","xuDong","dtsd","ten_file") # doi ten cot theo thu tu tu trai sang phai
