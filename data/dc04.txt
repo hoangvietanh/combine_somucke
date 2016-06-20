@@ -1,0 +1,510 @@
+____________________________________________________________________________________________________________________________________________________________________________
+|Thöa |  DiÖn tÝch |   T©m X    |     T©m Y  |  Lo¹i ®Êt  |        Tªn chñ sö dông         |           §Þa chØ              |  Sh Tam  |             Xu dong          |DTSD|
+|-----|------------|------------|------------|------------|--------------------------------|--------------------------------|----------|------------------------------|----|
+|   1 |  605699.26 | 1349047.50 |      410.0 |        RST |                      TÞnh Biªn |                     TrÝ Nguyªn |          |                              |  1 |
+|   2 |  605667.15 | 1349005.50 |     1280.5 |        RST |                  Tr×nh V¨n T¹i |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|   4 |  605728.92 | 1348991.14 |    14142.4 |        RST |                     UB qu¶n lý |                     TrÝ Nguyªn |          |                              |  1 |
+|   6 |  605644.59 | 1348975.50 |      416.0 |        RST |             NguyÔn Thanh Ch¸nh |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|   5 |  605673.19 | 1348963.00 |     1173.0 |        RST |                      Phan Hïng |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|   7 |  605656.74 | 1348948.06 |      354.2 |        RST |                        Vâ NhÞp |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|   8 |  605674.59 | 1348924.50 |      720.5 |        RST |                       Ph¹m C©n |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  28 |  606009.04 | 1348881.86 |    22665.4 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+|  29 |  605873.79 | 1348764.00 |     2376.0 |        RST |                    Lª V¨n Toµn |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  30 |  605836.16 | 1348755.37 |     1289.4 |        RST |                    Lª V¨n Long |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  31 |  605797.69 | 1348743.50 |      492.5 |        RST |                  TrÇn §×nh Quý |                     TrÝ Nguyªn |       14 |                     B¹ch ®µn |  1 |
+|  33 |  605854.14 | 1348732.50 |      926.3 |        RST |                    NguyÔn DiÕu |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  34 |  605886.58 | 1348726.00 |     1283.0 |        RST |                Mai ThÞ Cao H¶i |                     TrÝ Nguyªn |       24 |                          mÝt |  1 |
+|  32 |  605806.19 | 1348720.25 |      615.4 |        RST |                     UB qu¶n lý |                     TrÝ Nguyªn |       11 |                     B¹ch ®µn |  1 |
+|  35 |  605836.00 | 1348709.21 |      890.8 |        RST |                     TrÇn ChØnh |                     TrÝ Nguyªn |       12 |                     B¹ch ®µn |  1 |
+|  36 |  605806.64 | 1348701.76 |      599.4 |        RST |                 §Æng V¨n Thµnh |                     TrÝ Nguyªn |       15 |                     B¹ch ®µn |  1 |
+|  38 |  605770.65 | 1348699.50 |      342.0 |        RST |                      Phan Hïng |                     TrÝ Nguyªn |       13 |                     B¹ch ®µn |  1 |
+|  37 |  605782.35 | 1348699.50 |      109.3 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+|  40 |  605787.18 | 1348680.50 |      850.0 |        RST |                  Tr×nh V¨n S¬n |                     TrÝ Nguyªn |       16 |                     B¹ch ®µn |  1 |
+|  41 |  605813.94 | 1348676.00 |      746.8 |        RST |                  NguyÔn V¨n ót |                     TrÝ Nguyªn |       23 |                    §Êt trèng |  1 |
+|  39 |  605765.60 | 1348673.50 |      650.0 |        RST |                     TrÇn Thang |                     TrÝ Nguyªn |       11 |                     B¹ch ®µn |  1 |
+|  42 |  605852.31 | 1348669.22 |     3078.7 |        RST |                    NguyÔn PhÕt |                     TrÝ Nguyªn |       22 |                     B¹ch ®µn |  1 |
+|  45 |  605750.85 | 1348655.50 |      432.0 |        RST |               NguyÔn C«ng Kiªn |                     TrÝ Nguyªn |       21 |                     B¹ch ®µn |  1 |
+|  44 |  605796.15 | 1348642.50 |      925.8 |        RST |                  TrÇn §×nh Quý |                     TrÝ Nguyªn |       17 |                     B¹ch ®µn |  1 |
+|   9 |  605517.79 | 1348641.00 |      139.0 |        RST |                  NguyÔn Nghiªm |                 §¶o TrÝ Nguyªn |          |                              |  1 |
+|  10 |  605501.11 | 1348633.00 |      406.0 |        RST |                   TrÇn V¨n Léc |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  43 |  605853.75 | 1348621.00 |     4366.3 |        RST |                       Lª ThuËn |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  46 |  605755.18 | 1348620.00 |     2614.1 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+|  47 |  605799.24 | 1348611.61 |      894.7 |        RST |             Tr­¬ng Trung L­¬ng |                     TrÝ Nguyªn |       19 |                     B¹ch ®µn |  1 |
+|  12 |  605498.58 | 1348610.50 |      716.0 |        RST |                 NguyÔn V¨n Pho |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  11 |  605529.28 | 1348605.50 |      314.0 |        RST |                     NguyÔn L¸y |                                |          |                     B¹ch ®µn |  1 |
+|  13 |  605453.57 | 1348602.50 |      630.5 |        RST |                   T« §¨ng Phóc |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  49 |  605767.02 | 1348599.00 |      834.1 |        RST |               NguyÔn C«ng Kiªn |                     TrÝ Nguyªn |       20 |                     B¹ch ®µn |  1 |
+|  48 |  605789.44 | 1348597.96 |      331.6 |        RST |                     UB qu¶n lý |                                |          |                     B¹ch ®µn |  1 |
+|  15 |  605500.80 | 1348588.00 |     1486.0 |        RST |                 NguyÔn V¨n N¨m |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  14 |  605460.35 | 1348587.50 |      408.0 |        RST |                         Vâ §Ëu |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  55 |  605830.08 | 1348586.00 |      550.2 |        RST |                 NguyÔn V¨n T©m |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  54 |  605802.57 | 1348580.50 |      778.4 |        RST |                   Phan Ngäc Hµ |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  18 |  605411.88 | 1348570.50 |      886.9 |        RST |                      NguyÔn Bª |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  60 |  605966.87 | 1348569.50 |     1263.0 |        RST |                   NguyÔn Chung |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  57 |  605873.72 | 1348568.50 |      528.0 |        RST |                   Phan Ngäc Hµ |                                |          |                     B¹ch ®µn |  1 |
+|  56 |  605848.45 | 1348565.50 |     1587.5 |        RST |                   Phan Ngäc Hµ |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  50 |  605773.09 | 1348564.96 |      850.0 |        RST |                   Ph¹m ThÞ Nay |                     TrÝ Nguyªn |       26 |                     B¹ch ®µn |  1 |
+|  16 |  605496.47 | 1348560.00 |     1311.0 |        RST |                    §µo ThÞ §ãn |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  17 |  605424.84 | 1348558.50 |      535.5 |        RST |                       Lª ThiÓm |                                |          |                     B¹ch ®µn |  1 |
+|  51 |  605772.49 | 1348552.50 |      612.1 |        RST |                     UB qu¶n lý |                                |          |                     B¹ch ®µn |  1 |
+|  58 |  605893.07 | 1348547.00 |     1944.4 |        RST |               NguyÔn V¨n H­¬ng |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  61 |  605945.29 | 1348546.50 |      478.5 |        RST |               NguyÔn V¨n H­¬ng |                 §¶o TrÝ Nguyªn |          |               §¶o TrÝ Nguyªn |  1 |
+|  59 |  605919.62 | 1348545.00 |     1351.8 |        RST |                    NguyÔn Hång |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  52 |  605777.91 | 1348543.10 |      979.4 |        RST |                         Lª Nha |                 §¶o TrÝ Nguyªn |          |               §¶o TrÝ Nguyªn |  1 |
+|  19 |  605408.12 | 1348538.00 |     1145.5 |        RST |                         Vâ §Ëu |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  53 |  605785.69 | 1348531.54 |     1071.0 |        RST |               Huúnh Träng TuÊn |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  21 |  605400.68 | 1348515.50 |      760.6 |        RST |                       Lª ThiÓm |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  20 |  605426.99 | 1348506.50 |      302.0 |        RST |                   TrÇn V¨n Léc |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  62 |  605936.73 | 1348502.00 |     1418.5 |        RST |                Huúnh Träng Nh· |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  64 |  605831.89 | 1348500.94 |     1117.9 |        RST |                  Lª  H÷u Ph­íc |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  22 |  605350.84 | 1348497.00 |      554.0 |        RST |                    T« V¨n §¨ng |                 §¶o TrÝ Nguyªn |          |                          Keo |  1 |
+|  65 |  605792.88 | 1348494.50 |     2456.3 |        RST |                    Huúnh ThÞ ý |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  63 |  605894.57 | 1348491.50 |     2461.4 |        RST |                 Huúnh V¨n Bång |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  66 |  605817.68 | 1348468.50 |     2680.5 |        RST |                Tr­¬ng V¨n §­îc |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  67 |  605912.63 | 1348465.95 |     1438.8 |        RST |                  Huúnh ThÞ LÑp |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  68 |  605948.83 | 1348458.50 |     1405.1 |        RST |                     T« ThÞ §Ñp |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|   9 |  605572.05 | 1348453.23 |   238636.3 |        RST |                NguuyÔn V¨n Pho |                 §¶o TrÝ Nguyªn | ®×nh Hßn M |                     B¹ch ®µn |  1 |
+|  85 |  606263.91 | 1348432.15 |   427532.1 |        RST |                     UB qu¶n lý |                                |          |                     B¹ch ®µn |  1 |
+|  70 |  605906.84 | 1348428.00 |     1385.1 |        RST |                    Lª V¨n M­êi |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  73 |  605777.96 | 1348421.19 |     3024.2 |        RST |                        Lª B¹ch |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  71 |  605852.26 | 1348420.00 |     2031.0 |        RST |                     §ç Xu©n H¹ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  23 |  605298.30 | 1348419.00 |      371.0 |        RST |                NguuyÔn V¨n Pho |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  72 |  605816.98 | 1348413.54 |     1148.4 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+|  69 |  605956.91 | 1348408.50 |     4025.2 |        RST |                  §inh ThÞ PhÐp |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  74 |  605715.46 | 1348392.34 |    26179.8 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+|  80 |  605891.21 | 1348387.50 |      889.5 |        RST |                Huúnh ThÞ NhiÖm |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  82 |  605940.81 | 1348377.00 |     1705.0 |        RST |                   Lª ThÞ Nhanh |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  78 |  605819.06 | 1348376.50 |      586.6 |        RST |                Huúnh ThÞ NhiÖm |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  76 |  605747.10 | 1348370.00 |      903.5 |        RST |                     §ç Xu©n H¹ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  81 |  605893.36 | 1348365.50 |     1215.0 |        RST |                Huúnh Träng Nh· |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  77 |  605792.79 | 1348360.00 |      723.0 |        RST |                 Lª ThÞ Mü Dung |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  75 |  605712.21 | 1348356.50 |      452.0 |        RST |                  Huúnh ThÞ §­a |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  83 |  605958.19 | 1348347.50 |      602.5 |        RST |                     NguyÔn Tíi |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  79 |  605825.16 | 1348344.50 |      598.0 |        RST |                     §ç Xu©n H¹ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  24 |  605355.67 | 1348343.29 |    49155.9 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+|  84 |  606012.32 | 1348329.50 |     4691.0 |        RST |                  NguyÔn ThÞ XÐ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  92 |  605706.23 | 1348326.50 |      468.5 |        RST |                   Ph¹m ThÞ Nay |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  89 |  605893.75 | 1348326.50 |     7183.5 |        RST |                  Huúnh §Þnh VÞ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  91 |  605726.69 | 1348322.35 |      762.0 |        RST |                NguyÔn ThÞ Lµnh |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  88 |  605952.14 | 1348317.00 |     1772.0 |        RST |               NguyÔn V¨n Phông |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  90 |  605774.90 | 1348311.50 |     1573.0 |        RST |                 §inh V¨n Th«ng |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  86 |  606092.90 | 1348307.00 |     5626.0 |        RST |                    Phan ThÞ BÕ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  93 |  605706.50 | 1348300.50 |      537.5 |        RST |             §inh V¨n ThÞ NghÜa |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  94 |  605818.50 | 1348300.50 |    12051.2 |        RST |                §inh V¨n Th­¬ng |                                |          |                              |  1 |
+|  26 |  605341.65 | 1348293.00 |     3286.5 |        RST |                     NguyÔn DÇu |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  25 |  605273.23 | 1348276.50 |      437.5 |        RST |             NguuyÔn Thµnh T©m  |                 §¶o TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+|  87 |  606047.60 | 1348275.00 |     1241.0 |        RST |                 NguyÔn ThÞ Hoa |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 100 |  605915.18 | 1348261.00 |     1577.5 |        RST |                     Vâ V¨n N¨m |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  27 |  605333.12 | 1348251.50 |     1995.6 |        RST |                    Chu V¨n San |                     TrÝ Nguyªn |          |                         §iÒu |  1 |
+|  96 |  605790.94 | 1348249.00 |      301.0 |        RST |                §inh V¨n Th­¬ng |                                |          |                              |  1 |
+|  99 |  605862.01 | 1348243.00 |      281.0 |        RST |               NguyÔn V¨n Phông |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  94 |  605742.69 | 1348241.00 |     2635.0 |        RST |                     T« V¨n Hoµ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  97 |  605818.47 | 1348230.24 |      867.5 |        RST |                   NguyÔn Chung |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  98 |  605848.76 | 1348228.50 |      721.5 |        RST |             NguyÔn Thanh Phong |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 105 |  605770.02 | 1348214.50 |     1405.5 |        RST |                    §ç Ngäc ThÞ |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 102 |  605896.33 | 1348201.50 |      716.0 |        RST |                 §inh V¨n Th«ng |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+|  95 |  605802.32 | 1348200.00 |     2393.0 |        RST |                     UB qu¶n lý |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+| 101 |  605916.61 | 1348198.00 |     3436.0 |        RST |               NguyÔn V¨n Phông |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 104 |  605837.62 | 1348191.00 |     1625.1 |        RST |                Huúnh V¨n C­êng |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+| 103 |  605868.94 | 1348188.50 |     1249.0 |        RST |               NguyÔn Thµnh TÝn |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 107 |  605728.47 | 1348181.00 |     1465.0 |        RST |                      Ng« QuyÒn |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+| 112 |  605940.10 | 1348171.50 |      307.0 |        RST |               NguyÔn Thµnh TÝn |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 110 |  605844.28 | 1348157.50 |      970.0 |        RST |              NguyÔn Thanh Minh |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 109 |  605795.03 | 1348151.00 |     1983.5 |        RST |                 Bïi Lª DiÔm My |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+| 106 |  605764.97 | 1348150.50 |     4313.8 |        RST |                 Huúnh C«ng T©m |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+| 111 |  605877.61 | 1348148.00 |      334.5 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+| 116 |  605841.90 | 1348131.00 |      952.5 |        RST |                  BiÖn ThÞ LiÔu |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 108 |  605757.09 | 1348118.00 |     1942.0 |        RST |             D­¬ng ThÞ QuÕ Th¬m |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 114 |  605892.84 | 1348106.50 |      738.0 |        RST |               NguyÔn V¨n Phông |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 113 |  605918.65 | 1348100.50 |     6156.5 |        RST |                NguyÔn Minh QuÕ |                     TrÝ Nguyªn |       28 |                     B¹ch ®µn |  1 |
+| 115 |  605869.23 | 1348091.00 |     2890.9 |        RST |                   Vâ Ngäc TuÊn |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 118 |  605758.41 | 1348090.35 |     6083.1 |        RST |                     UB qu¶n lý |                                |          |                              |  1 |
+| 117 |  605836.01 | 1348089.82 |      926.5 |        RST |                   Vâ ThÞ Tr×nh |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 123 |  605955.06 | 1348054.00 |     3984.5 |        RST |                NguyÔn V¨n LiÖu |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 119 |  605783.20 | 1348025.50 |     4167.9 |        RST |                NguyÔn Minh QuÕ |                     TrÝ Nguyªn |       28 |                     B¹ch ®µn |  1 |
+| 121 |  605840.99 | 1348021.83 |     6507.5 |        RST |                       V¾ng Chñ |                                |          |                              |  1 |
+| 122 |  605905.78 | 1347984.50 |     5130.8 |        RST |                     Lª ThÞ Bµn |                     TrÝ Nguyªn |       30 |                          Keo |  1 |
+| 120 |  605806.68 | 1347979.50 |     1738.5 |        RST |                 §inh ThÞ NghÜa |                     TrÝ Nguyªn |          |                     B¹ch ®µn |  1 |
+| 127 |  605848.02 | 1347951.50 |     1415.0 |        RST |                 TrÞnh ThÞ Chùc |                     TrÝ Nguyªn |       35 |                      B¹chdan |  1 |
+| 124 |  605972.69 | 1347936.16 |     7800.8 |        RST |                 Lª ThÞ Mü Dung |                     TrÝ Nguyªn |          |                     B¹ch §µn |  1 |
+| 128 |  605837.99 | 1347928.00 |      526.0 |        RST |                    Hå ThÞ §iÓu |                     TrÝ Nguyªn |      keo |                          keo |  1 |
+| 129 |  605856.99 | 1347912.50 |     1042.0 |        RST |                 Ph¹m ThÕ T­ëng |                     TrÝ Nguyªn |       37 |                          keo |  1 |
+| 126 |  605883.51 | 1347911.50 |     1900.5 |        RST |               NguyÔn §øc Hoµng |                     TrÝ Nguyªn |       31 |                         xoµi |  1 |
+| 125 |  605920.38 | 1347905.00 |     1894.0 |        RST |                    NguyÔn §iÓm |                     TrÝ Nguyªn |       32 |                          keo |  1 |
+| 130 |  605891.16 | 1347841.50 |     1285.5 |        RST |               NguyÔn V¨n Lu«ng |                     TrÝ Nguyªn |       34 |                          Keo |  1 |
+| 131 |  605902.03 | 1347804.00 |     2395.0 |        RST |                  Hïynh V¨n Léi |                     TrÝ Nguyªn |       33 |                         xoµi |  1 |
+| 132 |  605905.90 | 1347733.50 |      561.5 |        RST |                   Ph¹m ThÞ Lïn |                     TrÝ Nguyªn |          |                         ®iÒu |  1 |
+| 133 |  605870.89 | 1347676.00 |     2796.1 |        RST |                   Hå V¨n Trung |                     TrÝ Nguyªn |       40 |                           bd |  1 |
+| 137 |  605921.89 | 1347669.19 |    55681.8 |        RST |                     UB qu¶n lý |                     TrÝ Nguyªn |       33 |                          Keo |  1 |
+| 134 |  605850.90 | 1347661.50 |     1242.6 |        RST |                   Phan V¨n T©m |                     TrÝ Nguyªn |       38 |                         ®iÒu |  1 |
+| 135 |  605895.04 | 1347589.09 |     4044.5 |        RST |                    Vâ ThÞ BiÕt |                     TrÝ Nguyªn |          |                   TrÝ Nguyªn |  1 |
+| 136 |  605939.72 | 1347558.59 |     1097.4 |        RST |                NguyÔn Minh QuÕ |                     TrÝ Nguyªn |       39 |                         ®iÒu |  1 |
+| 139 |  611248.74 | 1346921.79 |   426054.9 |        RST |               Ban qu¶n lý rõng |                                |          |                              |  1 |
+| 138 |  608044.64 | 1346593.08 |   997766.8 |        RST |               Ban qu¶n lý rõng |                        hßn T»m |          |                      hßn T»m |  1 |
+____________________________________________________________________________________________________________________________________________________________________________
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:313344
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_37:0.010000
+
+OUTPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:313344
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           377
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+NUMBER OF EXTENDED ELEMENTS:                         0
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  1 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:313856
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_37:0.010000
+
+OUTPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:313344
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           370
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         3
+NUMBER OF EXTENDED ELEMENTS:                         3
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  1 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:395264
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_37:0.010000
+
+OUTPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:313856
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           411
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         3
+NUMBER OF EXTENDED ELEMENTS:                         3
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:322048
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_37:0.010000
+
+OUTPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:313344
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           379
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         3
+NUMBER OF EXTENDED ELEMENTS:                         3
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  1 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:317952
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_37:0.010000
+
+OUTPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:313344
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           381
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+NUMBER OF EXTENDED ELEMENTS:                         0
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               2
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:396288
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_37:0.010000
+
+OUTPUT DGN FILE:		d:\khanhhoa_08\thanhpho\p_v.nguyen\dc4\dc04.dgn	:395776
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           373
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+NUMBER OF EXTENDED ELEMENTS:                         2
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+
