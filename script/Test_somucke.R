@@ -19,8 +19,8 @@ for (i in ni)
   # data[[i]]$dtich = as.numeric(as.character(data[[i]]$dtich)) ## set cot dtich ve numeric
   data[[i]]$x = as.numeric(as.character(data[[i]]$x)) ## set cot x ve numeric
   data[[i]]$y = as.numeric(as.character(data[[i]]$y)) ## set cot y ve numeric
-  data[[i]] = subset(data[[i]], is.na(data[[i]]$x) == F) #remove row with x = na
-  data[[i]] = subset(data[[i]], is.na(data[[i]]$y) == F) #remove row with y=na
+  data[[i]] = subset(data[[i]], is.na(data[[i]]$x) == F) #remove row with x=na, buoc nay cung se remove cac dong thua` o cuoi file text, cac dong phu. hoac khong theo dung' cau truc table
+  data[[i]] = subset(data[[i]], is.na(data[[i]]$y) == F) #remove row with y=nam buoc nay cung se remove cac dong thua` o cuoi file text, cac dong phu. hoac khong theo dung' cau truc table
   i = i + 1
 }
 
