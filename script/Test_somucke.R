@@ -19,12 +19,12 @@ for (i in ni)
   # data[[i]]$dtich = as.numeric(as.character(data[[i]]$dtich)) ## set cot dtich ve numeric
   data[[i]]$x = as.numeric(as.character(data[[i]]$x)) ## set cot x ve numeric
   data[[i]]$y = as.numeric(as.character(data[[i]]$y)) ## set cot y ve numeric
-  data[[i]] = subset(data[[i]], is.na(data[[i]]$x) == F) #remove all x = na
-  data[[i]] = subset(data[[i]], is.na(data[[i]]$y) == F) #remove all y=na
+  data[[i]] = subset(data[[i]], is.na(data[[i]]$x) == F) #remove row with x = na
+  data[[i]] = subset(data[[i]], is.na(data[[i]]$y) == F) #remove row with y=na
   i = i + 1
 }
 
-data_total = do.call(rbind, data)
+data_total = do.call(rbind, data) #combine cac data frame lai thanh 1 data frame
 setwd("C:/So muc ke/output")
 
 write.csv(data_total, file = "data_total.csv", row.names=FALSE)
