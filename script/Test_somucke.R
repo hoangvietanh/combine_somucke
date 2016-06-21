@@ -4,8 +4,8 @@ path = "C:/So muc ke/data"
 
 
 # Read data
-ten_files = list.files(path,full.names = T)
-ten_files_temp = list.files(path,full.names = F)
+ten_files = list.files(path,full.names = T)  #write list of file path to variable ten_files
+ten_files_temp = list.files(path,full.names = F) #write list of file name to variable ten_file_temp
 
 ni = seq_along(ten_files)
 i = 1
